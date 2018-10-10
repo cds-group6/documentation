@@ -12,8 +12,7 @@
 - Session 4: October 11, 7:00pm - 8:00pm, EST
 
 ## Task Description
-The problem description will be posted here when the study starts. You should submit the following materials at the end of the study:
-<!-- The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study: -->
+The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study:
 - A final report in Jupyter Notebook (.ipynb)
 - Prediction result on the test dataset
 
@@ -26,7 +25,7 @@ We are using a remote screensharing tool to collect data. You should walkthrough
 
 ## Tools for Collaboration
 <!-- For groups using shared environment -->
-Please use [Experimentor](https://experimentor.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
+Please use [ExperimentorX](https://experimentorx.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
 
 ## Contact
 
